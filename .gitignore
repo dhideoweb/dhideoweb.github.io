@@ -1,0 +1,8 @@
+*.pyc
+*.json
+*.hdf
+venv/
+conf/
+/conf
+storage/data/
+node_modules/**
