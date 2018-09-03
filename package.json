@@ -4,7 +4,8 @@
   "description": "dhideoweb Git",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "npm install "
   },
   "repository": {
     "type": "git",
@@ -36,18 +37,15 @@
     "js-base64": "^2.3.2",
     "jwt-decode": "^2.2.0",
     "lodash": "^4.17.4",
-    "material-ui": "^0.20.0",
     "moment": "^2.19.2",
     "net": "^1.0.2",
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
-    "searchkit": "^2.3.0",
     "smoothscroll-polyfill": "^0.4.0",
     "socket.io": "^2.1.0",
     "stompjs": "^2.3.3",
-    "tabler-ui": "0.0.32",
-    "velocity-animate": "^1.5.1",
     "tabler-ui": "^0.0.32",
-    "vue-popperjs": "^1.3.4",    
+    "velocity-animate": "^1.5.1",
+    "vue-popperjs": "^1.3.4"
   }
 }
